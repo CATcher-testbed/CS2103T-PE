@@ -1,5 +1,5 @@
 {
-  "openPhases" : ["phaseBugReporting"],
+  "openPhases" : ["phaseTeamResponse"],
   "phaseBugReporting": "ped",
   "phaseTeamResponse": "CS2103T-PED-dev-response",
   "phaseTesterResponse": "CS2103T-PED-tester-response",
